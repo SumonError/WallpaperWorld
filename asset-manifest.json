@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WallpaperWorld/static/css/main.a617e044.chunk.css",
+    "main.js": "/WallpaperWorld/static/js/main.fac106e5.chunk.js",
+    "main.js.map": "/WallpaperWorld/static/js/main.fac106e5.chunk.js.map",
+    "runtime-main.js": "/WallpaperWorld/static/js/runtime-main.a9a8fc84.js",
+    "runtime-main.js.map": "/WallpaperWorld/static/js/runtime-main.a9a8fc84.js.map",
+    "static/js/2.dd589f58.chunk.js": "/WallpaperWorld/static/js/2.dd589f58.chunk.js",
+    "static/js/2.dd589f58.chunk.js.map": "/WallpaperWorld/static/js/2.dd589f58.chunk.js.map",
+    "index.html": "/WallpaperWorld/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/WallpaperWorld/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dd589f58.chunk.js.LICENSE.txt": "/WallpaperWorld/static/js/2.dd589f58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9a8fc84.js",
+    "static/js/2.dd589f58.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fac106e5.chunk.js"
+  ]
+}
